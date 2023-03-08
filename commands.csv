@@ -1,0 +1,6 @@
+﻿date,date
+path,ls -l
+install mythril,pip install mythril
+ChainlinkOracle,myth a -a 0x017aD99900b9581Cd40C815990890EE9F0858246 --infura-id badda241d16742ffa5270aafa823cd4e --execution-time 100
+CompensationClaims,myth a -a 0x9C94df9d594BA1eb94430C006c269C314B1A8281 --infura-id badda241d16742ffa5270aafa823cd4e --execution-time 100
+Dripper,myth a -a 0xc7068A35F9F5b77471BcFfBdf82D9531D52AFCdc --infura-id badda241d16742ffa5270aafa823cd4e --execution-time 100
